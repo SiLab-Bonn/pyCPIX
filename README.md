@@ -1,2 +1,24 @@
 # pyCPIX
-pyCPIX 
+
+Welcome to the home of pyCPIX!
+
+PyCPIX is the name for a common readout and test systems for active and monolithic CMOS sensor development.
+
+## Suppot
+
+TBD, email
+
+## Development
+
+PyCPIX is providing a collection of Python packages for different tasks:
+- Support of USBpix (2.0/3.0) and adapter cards (e.g. GPAC) ([basil](https://github.com/SiLab-Bonn/basil))
+- FEI4 readout and data analysis ([pyBAR](https://github.com/SiLab-Bonn/pyBAR))
+- Support for features unique to each CMOS prototype (see Prototypes section)
+
+![pyCPIX Structure](https://github.com/SiLab-Bonn/pyCPIX/blob/master/images/pyCPIX.png)
+
+## Prototypes
+
+- [CCPDv1/v2](https://silab-redmine.physik.uni-bonn.de/projects/hcmos)
+- [CCPDv4](https://github.com/SiLab-Bonn/CCPDv4)
+- [CCPDLF](https://silab-redmine.physik.uni-bonn.de/projects/ccpdlf)
