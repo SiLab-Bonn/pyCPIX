@@ -13,9 +13,9 @@ TBD, email
 PyCPIX is providing a collection of Python packages for different tasks:
 - Support of USBpix (2.0/3.0) and adapter cards (e.g. GPAC) ([basil](https://github.com/SiLab-Bonn/basil))
 - FEI4 readout and data analysis ([pyBAR](https://github.com/SiLab-Bonn/pyBAR))
-- Support for features unique to each CMOS prototype (see [Prototypes](#Prototypes) section)
+- Support for features unique to each CMOS prototype (see Prototypes section)
 
-![pyCPIX Structure](https://github.com/SiLab-Bonn/pyCPIX/blob/master/images/pyCPIX.png)
+![pyCPIX Structure](/images/pyCPIX.png)
 
 ## Prototypes
 
