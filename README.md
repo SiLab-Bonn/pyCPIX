@@ -6,7 +6,7 @@ PyCPIX is the name for a common readout and test systems for active and monolith
 
 ## Suppot
 
-TBD, email
+Please contact the corresponding project owner.
 
 ## Development
 
