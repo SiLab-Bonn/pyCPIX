@@ -19,6 +19,6 @@ PyCPIX is providing a collection of Python packages for different tasks:
 
 ## Prototypes
 
-- [CCPDv1/v2](https://silab-redmine.physik.uni-bonn.de/projects/hcmos)
+- [CCPDv2](https://github.com/SiLab-Bonn/ccpdv2)
 - [CCPDv4](https://github.com/SiLab-Bonn/ccpdv4)
 - [CCPDLF](https://silab-redmine.physik.uni-bonn.de/projects/ccpdlf)
